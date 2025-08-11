@@ -39,7 +39,7 @@ This project demonstrates how to host a static website using AWS S3 and distribu
 - Route 53 (Optional for custom domain)
 
  **📄 Documentation:**  
-[📥 Download PDF](mm)
+[📥 Download PDF](STATIC_WEBSITE_HOSTING_USING_AWS_S3_&_CLOUDFRONT.pdf)
 
 
 *(More projects will be added here as I complete them.)*
