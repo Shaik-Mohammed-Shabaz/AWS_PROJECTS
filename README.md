@@ -18,6 +18,6 @@ Amazon EC2
 AWS Identity and Access Management (IAM)
 
 **📄 Documentation:**  
-[📥 Download PDF](AUTOMATE_START_STOP_EC2_INSTANCES_USING_LAMBDA)
+[📥 Download PDF](AUTOMATE_START_STOP_EC2_INSTANCES_USING_LAMBDA.pdf)
 
 
