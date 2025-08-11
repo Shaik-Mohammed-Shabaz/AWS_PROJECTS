@@ -21,3 +21,11 @@ AWS Identity and Access Management (IAM)
 [📥 Download PDF](AUTOMATE_START_STOP_EC2_INSTANCES_USING_LAMBDA.pdf)
 
 
+
+*(More projects will be added here as I complete them.)*
+
+📌 Author
+**Mohammed Shabaz**  
+📧 Email: mohammedshabaz143786@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-shabaz-40365625a)
+
